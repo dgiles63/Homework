@@ -22,3 +22,5 @@
 We want you thinking about **quality** while you are writing the code. Feel free to add extra verification checks or extra steps to ensure a high standard of quality on the application. 
 
 All interactions with the website and api must be **written in code**
+
+Don't submit a Postman and Newman collection
