@@ -1,0 +1,7 @@
+{"server": "https://10.10.9.215/account/login/#/",
+"browsers": ["chrome"],
+"username": "automation_user",
+"password": "Test-password-1",
+"maxTimeToWait": "10000",
+"interval": "500",
+"globalWait": "4000"}

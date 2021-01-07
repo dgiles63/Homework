@@ -1,0 +1,8 @@
+*node_modules/*
+*.idea/*
+*.pytest_cache/*
+*__pycache__/*
+*venv/*
+*ApiTest/Accounts/__pycache__/*
+*ApiTest/BookStore/__pycache__/*
+*ApiTest/__pycache__/*

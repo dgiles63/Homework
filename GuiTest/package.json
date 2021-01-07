@@ -1,0 +1,24 @@
+{
+  "name": "wdioTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/local-runner": "^6.6.7",
+    "@wdio/mocha-framework": "^6.6.7",
+    "@wdio/spec-reporter": "^6.6.8",
+    "@wdio/sync": "^6.6.7",
+    "chromedriver": "^86.0.0",
+    "nodejs": "0.0.0",
+    "wdio-chromedriver-service": "^6.0.4"
+  },
+  "dependencies": {
+    "@wdio/cli": "^6.6.7"
+  }
+}
